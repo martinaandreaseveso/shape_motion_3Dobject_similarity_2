@@ -79,3 +79,9 @@ Freud, E., & Ganel, T. (2015). Visual control of action directed toward two-dime
 Wang, Yamin, et al. “Discriminability effect on Garner interference: evidence from recognition of facial identity and expression.” Frontiers in Psychology 4 (2013): 943.
 
 Li, A. Y., Liang, J. C., Lee, A. C., & Barense, M. D. (2020). The validated circular shape space: Quantifying the visual similarity of shape. Journal of Experimental Psychology: General, 149(5), 949.
+
+**License**
+a. Code (analysis scripts, stimuli generation): MIT License
+b. All other materials (data, stimuli, experimental design): CC BY 4.0
+
+All stimuli were created by the author (Seveso, M., A.). Data has been anonymised and contains no personal information.
