@@ -1,5 +1,11 @@
 # shape_motion_3Dobject_similarity_2
 
+**Contributors**
+Martina Andrea Seveso,
+Rebecca Hirst,
+Alan O'Dowd,
+Fiona N. Newell
+
 This experiment used a Garner interference paradigm to test whether motion is integrated into object representations in memory. Participants classified objects based on shape while ignoring motion.
 
 **Research aims**
